@@ -1,0 +1,19 @@
+.heading{
+    font-size: 30px;
+}
+
+.card-categories{
+    box-shadow: 6px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.harga{
+    color: #002CFF;
+}
+/* Jika dilayar 0 - 480px maka hilangkan navbar */
+/* @media screen and (max-width:480px){ 
+    .navbar{
+        display: none;
+    }
+} */
